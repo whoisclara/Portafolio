@@ -22,3 +22,15 @@ Este proyecto está enfocado principalmente en la exploración de datos y crear 
 
 link del repositorio: https://github.com/whoisclara/DOS-Proyecto-Final 
 
+### Mitigación del sesgo y Regulación Ética
+
+El proyecto aplica técnicas de mitigación de sesgo y análisis, en el que se se evalúan métricas de equidad, la relación entre precisión y fairness, y las implicaciones éticas y regulatorias del uso de la IA para los modelos predictivos, con un énfasis en el cumplimiento normativo y el uso responsable de modelos de clasificación.
+
+link del repositorio: https://github.com/whoisclara/Regulacion-Etica-en-la-IA
+
+### Diseño y consultas avanzadas en bases de datos
+
+Este proyecto se enfoca en el diseño y la consulta de bases de datos relacionales, que incluye el modelado de datos, creación de esquemas y desarrollo de SQL avanzadas para resolver requerimientos específicos de información
+
+Link del repositorio: https://github.com/whoisclara/Regulacion-Etica-en-la-IA
+
