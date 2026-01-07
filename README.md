@@ -2,6 +2,8 @@
 
 Hola mi nombre es Clara Otalvaro. 
 
+![Image](https://github.com/user-attachments/assets/74bd6b66-4b97-4d7b-b595-822a2ed409b6)
+
 Soy una persona curiosa e inquieta por aprender nuevas cosas, eso fue justamente lo que me llevo a convertirme en estudiante de ingeniería en ciencia de datos. Actualmente estoy cursando el octavo semestre de la carrera, mi área de mayor interés está centrada en el desarrollo de modelos de machine learning que apoyen la toma de decisiones, sin embargo, tengo experiencia en proyectos de análisis exploratorio y modelado predictivo.
 
 ## Contenido
